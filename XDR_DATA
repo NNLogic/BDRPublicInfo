@@ -1,33 +1,36 @@
 {
 	"XDR": {
 		"supporters_2023_name_ad": [
-		{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right"}
-		,{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"coob_","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"JulienTheRoo","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"しきうた（siki_uta）","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"noramike37","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Arahishi_sakati","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"hiro_p","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"IKEYU","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Mashiro_Recon","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Tozaki11","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"KUO212","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"ふーこう_Fukou","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"hendou1","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"たぬ<Lycants>","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"だいこく（大国主命）","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"ここは","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"thecrash8258","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"ZEOX0","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Sニッケル","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Mel_Lem_Dreams","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Dpsoba","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"ɴᴀɴᴀツ","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"みき_miki","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"Note24","throw_mode":"gun","color":"","hand":"right"}
-		,{"name":"あかぼうず（akabose）","throw_mode":"gun","color":"","hand":"right"}
+{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index"}
+,{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"coob_","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"JulienTheRoo","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"しきうた（siki_uta）","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"noramike37","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"Arahishi_sakati","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"hiro_p","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"IKEYU","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"Mashiro_Recon","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"Tozaki11","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"KUO212","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"ふーこう_Fukou","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"hendou1","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"たぬ<Lycants>","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"だいこく（大国主命）","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"ここは","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"thecrash8258","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"ZEOX0","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"Sニッケル","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+
+,{"name":"Mel_Lem_Dreams","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"Dpsoba","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"ɴᴀɴᴀツ","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"みき_miki","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"Note24","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+
+
+,{"name":"あかぼうず","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 		],
 		"supporters_2023_name": [
 			"うみみかん。",
