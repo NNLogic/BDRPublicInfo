@@ -25,7 +25,7 @@
 
 ,{"name":"Mel_Lem_Dreams","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Dpsoba","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-,{"name":"ɴᴀɴᴀツ","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+
 ,{"name":"みき_miki","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Note24","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 
@@ -33,6 +33,8 @@
 ,{"name":"あかぼうず","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"yusama125718","throw_mode":"throw","color":"","hand":"right","trigger":"index"}
 ,{"name":"ちゃんぱぐ","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"がんがんぎぎん銀河満","throw_mode":"throw","color":"","hand":"right","trigger":"index"}
+,{"name":"ɴᴀɴᴀツ","throw_mode":"gun","color":"FFCCFF","hand":"left","trigger":"index"}
 		],
 		"supporters_2023_name": [
 			"うみみかん。",
