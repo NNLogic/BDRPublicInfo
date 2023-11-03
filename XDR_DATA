@@ -42,6 +42,8 @@
 ,{"name":"Sierra_0627","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"LAGNAROCK","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"さいん（SAIN_0226）","throw_mode":"gun","color":"c864ff","hand":"right","trigger":"index"}
+,{"name":"hiral","throw_mode":"throw","color":"FF7000","hand":"right","trigger":"middle"}
+,{"name":"むせん_ぢる","throw_mode":"throw","color":"00D970","hand":"right","trigger":"index"}
 		],
 		"supporters_2023_name": [
 			"うみみかん。",
