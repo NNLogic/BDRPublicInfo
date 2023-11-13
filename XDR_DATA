@@ -45,6 +45,7 @@
 ,{"name":"hiral","throw_mode":"throw","color":"FF7000","hand":"right","trigger":"middle"}
 ,{"name":"むせん_ぢる","throw_mode":"throw","color":"00D970","hand":"right","trigger":"index"}
 ,{"name":"petipeti","throw_mode":"gun","color":"FD7D82","hand":"right","trigger":"middle"}
+,{"name":"AlphaBrazen","throw_mode":"gun","color":"E61937","hand":"right","trigger":"index"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
