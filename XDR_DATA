@@ -17,10 +17,10 @@
 ,{"name":"ふーこう_Fukou","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"hendou1","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"たぬ<Lycants>","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-,{"name":"だいこく（大国主命）","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+
 ,{"name":"ここは","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"thecrash8258","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-,{"name":"ZEOX0","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+
 ,{"name":"Sニッケル","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 
 ,{"name":"Mel_Lem_Dreams","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
@@ -46,6 +46,8 @@
 ,{"name":"むせん_ぢる","throw_mode":"throw","color":"00D970","hand":"right","trigger":"index"}
 ,{"name":"petipeti","throw_mode":"gun","color":"FD7D82","hand":"right","trigger":"middle"}
 ,{"name":"AlphaBrazen","throw_mode":"gun","color":"E61937","hand":"right","trigger":"index"}
+,{"name":"_ZEO_","throw_mode":"gun","color":"000000","hand":"right","trigger":"index"}
+,{"name":"だいこく","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
