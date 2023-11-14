@@ -16,7 +16,7 @@
 ,{"name":"KUO212","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"ふーこう_Fukou","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"hendou1","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-,{"name":"たぬ<Lycants>","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+
 
 ,{"name":"ここは","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"thecrash8258","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
@@ -52,6 +52,9 @@
 ,{"name":"朱染のあ","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"Mimi sippo","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Rewriter9918","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
+,{"name":"inc.","throw_mode":"gun","color":"FF69B4","hand":"right","trigger":"index"}
+,{"name":"蒼凪 りぃ／Rii","throw_mode":"gun","color":"000000","hand":"right","trigger":"middle"}
+,{"name":"たぬ≺Lycants≻","throw_mode":"gun","color":"009933","hand":"left","trigger":"index"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
