@@ -13,7 +13,7 @@
 ,{"name":"IKEYU","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Mashiro_Recon","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Tozaki11","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-,{"name":"KUO212","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"KUO212","throw_mode":"gun","color":"0CDBE6","hand":"right","trigger":"middle"}
 ,{"name":"ふーこう_Fukou","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"hendou1","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 
@@ -58,7 +58,8 @@
 ,{"name":"niniina","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 ,{"name":"emashi","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 ,{"name":"sorayume","throw_mode":"throw","color":"87CEFA","hand":"right","trigger":"index"}
-,{"name":"KUO212","throw_mode":"gun","color":"0CDBE6","hand":"right","trigger":"middle"}
+
+,{"name":"Ryaniken","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
