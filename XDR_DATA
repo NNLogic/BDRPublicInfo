@@ -61,6 +61,7 @@
 
 ,{"name":"Ryaniken","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 ,{"name":"ポリゴン","throw_mode":"throw","color":"","hand":"right","trigger":"middle"}
+,{"name":"Shiglacier","throw_mode":"gun","color":"00FFFF","hand":"left","trigger":"index"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
