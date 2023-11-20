@@ -64,6 +64,7 @@
 ,{"name":"Shiglacier","throw_mode":"gun","color":"00FFFF","hand":"left","trigger":"index"}
 
 ,{"name":"煩悩侍VR","throw_mode":"throw","color":"FFDE5A","hand":"right","trigger":"index"}
+,{"name":"Rekrow","throw_mode":"throw","color":"AAA5FF","hand":"right","trigger":"index"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
