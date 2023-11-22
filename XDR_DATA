@@ -1,7 +1,8 @@
 {
 	"XDR": {
 		"supporters_2023_name_ad": [
-{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
+,{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index"}
+,{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"coob_","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"JulienTheRoo","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
@@ -15,21 +16,21 @@
 ,{"name":"KUO212","throw_mode":"gun","color":"0CDBE6","hand":"right","trigger":"middle"}
 ,{"name":"ふーこう_Fukou","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"hendou1","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"ここは","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"thecrash8258","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"Sニッケル","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"Mel_Lem_Dreams","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Dpsoba","throw_mode":"gun","color":"A600FF","hand":"right","trigger":"middle"}
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"みき_miki","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"Note24","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
-
-
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"yusama125718","throw_mode":"throw","color":"","hand":"right","trigger":"index"}
 ,{"name":"ちゃんぱぐ","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
 ,{"name":"がんがんぎぎん銀河満","throw_mode":"throw","color":"","hand":"right","trigger":"index"}
@@ -57,14 +58,16 @@
 ,{"name":"niniina","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 ,{"name":"emashi","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 ,{"name":"sorayume","throw_mode":"throw","color":"87CEFA","hand":"right","trigger":"index"}
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"Ryaniken","throw_mode":"gun","color":"","hand":"right","trigger":"middle"}
 ,{"name":"ポリゴン","throw_mode":"throw","color":"","hand":"right","trigger":"middle"}
 ,{"name":"Shiglacier","throw_mode":"gun","color":"00FFFF","hand":"left","trigger":"index"}
-
+,{"name":"","throw_mode":"gun","color":"","hand":"left","trigger":"index"}
 ,{"name":"煩悩侍VR","throw_mode":"throw","color":"FFDE5A","hand":"right","trigger":"index"}
 ,{"name":"Rekrow","throw_mode":"throw","color":"AAA5FF","hand":"right","trigger":"index"}
 ,{"name":"くすんだ鈴蘭。","throw_mode":"gun","color":"ADFF2F","hand":"right","trigger":"index"}
+,{"name":"_Millie","throw_mode":"gun","color":"FFABF5","hand":"right","trigger":"middle"}
+,{"name":"Silent Winter","throw_mode":"gun","color":"FFDD01","hand":"right","trigger":"middle"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
