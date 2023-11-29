@@ -66,9 +66,12 @@
 ,{"name":"煩悩侍VR","throw_mode":"throw","color":"FFDE5A","hand":"right","trigger":"index"}
 ,{"name":"Rekrow","throw_mode":"throw","color":"AAA5FF","hand":"right","trigger":"index"}
 ,{"name":"くすんだ鈴蘭。","throw_mode":"gun","color":"ADFF2F","hand":"right","trigger":"index"}
-,{"name":"_Millie","throw_mode":"gun","color":"FFABF5","hand":"right","trigger":"middle"}
+,{"name":"~Millie","throw_mode":"gun","color":"FFABF5","hand":"right","trigger":"middle"}
 ,{"name":"Silent Winter","throw_mode":"gun","color":"FFDD01","hand":"right","trigger":"middle"}
 ,{"name":"Kimi Maiggonen","throw_mode":"throw","color":"","hand":"right","trigger":"middle"}
+
+,{"name":"空上流一","throw_mode":"gun","color":"00acf0","hand":"right","trigger":"middle"}
+,{"name":"シャキシャキレタス","throw_mode":"gun","color":"00ADAD","hand":"right","trigger":"middle"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
