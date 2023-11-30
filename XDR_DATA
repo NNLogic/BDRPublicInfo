@@ -75,6 +75,7 @@
 ,{"name":"lazyhoge","throw_mode":"throw","color":"1EB8FF","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"yuNo_Lilylouve","throw_mode":"throw","color":"FF1CDD","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"Specterherry","throw_mode":"throw","color":"","hand":"right","trigger":"middle","year":"2023"}
+,{"name":"BD2EXAM","throw_mode":"throw","color":"","hand":"right","trigger":"index","year":"2023"}
 
 
 
@@ -82,6 +83,8 @@
 
 ,{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index","year":"2024"}
 ,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"left","trigger":"middle","year":"2024"}
+,{"name":"蒼凪 りぃ／Rii","throw_mode":"gun","color":"000000","hand":"right","trigger":"middle","year":"2024"}
+,{"name":" HANI和_はにわ","throw_mode":"throw","color":"","hand":"right","trigger":"middle","year":"2024"}
 
 ],
 		"supporters_2023_name_ad": [
@@ -159,6 +162,7 @@
 ,{"name":"lazyhoge","throw_mode":"throw","color":"1EB8FF","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"yuNo_Lilylouve","throw_mode":"throw","color":"FF1CDD","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"Specterherry","throw_mode":"throw","color":"","hand":"right","trigger":"middle","year":"2023"}
+,{"name":"BD2EXAM","throw_mode":"throw","color":"","hand":"right","trigger":"index","year":"2023"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
