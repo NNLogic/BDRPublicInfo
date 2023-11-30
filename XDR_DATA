@@ -1,5 +1,9 @@
 {
 	"XDR": {
+	"supporters_name_ad": [
+{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index","year":"2024"}
+,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"left","trigger":"middle","year":"2024"}
+],
 		"supporters_2023_name_ad": [
 {"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index"}
 ,{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index"}
