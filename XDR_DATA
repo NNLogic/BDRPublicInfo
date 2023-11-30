@@ -72,6 +72,8 @@
 
 ,{"name":"空上流一","throw_mode":"gun","color":"00acf0","hand":"right","trigger":"middle"}
 ,{"name":"シャキシャキレタス","throw_mode":"gun","color":"00ADAD","hand":"right","trigger":"middle"}
+,{"name":"lazyhoge","throw_mode":"throw","color":"1EB8FF","hand":"right","trigger":"index"}
+,{"name":"yuNo_Lilylouve","throw_mode":"throw","color":"FF1CDD","hand":"right","trigger":"index"}
 		],
 		"supporters_2022_name": [
 			"Arahishi_sakati",
