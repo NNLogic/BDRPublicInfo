@@ -6,14 +6,14 @@
 	"admin":"nnlogic",
 	"moderator":["nnlogic","TanshioDragon","yusama125718"],
 	"expired_from":"2024-06-01T12:00:00.0000000+09:00",
-	"expired_to":"2030-12-30T00:00:00.0000000+09:00"
+	"expired_to":"2030-12-30T00:00:00.0000000+09:00",
 	"period_hours":"3"
 	},
 	"3848509125":{
 	"type":"event",
 	"admin":"xdf",
 	"expired_from":"2024-06-28T12:00:00.0000000+09:00",
-	"expired_to":"2024-07-30T00:00:00.0000000+09:00"
+	"expired_to":"2024-07-30T00:00:00.0000000+09:00",
 	"period_hours":"3"
 	}
 	},
