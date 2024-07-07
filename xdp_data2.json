@@ -15,6 +15,13 @@
 	"expired_from":"2024-06-28T12:00:00.0000000+09:00",
 	"expired_to":"2024-12-30T00:00:00.0000000+09:00",
 	"period_hours":"3"
+	},
+	"1413755144":{
+	"type":"event",
+	"admin":"rere",
+	"expired_from":"2024-07-01T12:00:00.0000000+09:00",
+	"expired_to":"2024-12-30T00:00:00.0000000+09:00",
+	"period_hours":"3"
 	}
 	},
 	"supporters_name_ad": [
