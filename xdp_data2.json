@@ -1,8 +1,8 @@
 {
 	"XDR": {
 	"note_info": {
-	"R3":"",
-	"R4":""
+	"R3":"\n*",
+	"R4":"\n*"
 	},
 	"world_info": {
 	"1333650877":{
@@ -35,8 +35,7 @@
 	}
 	},
 	"supporters_name_ad": [
-{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index","year":"2023"}
-,{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
+{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"coob_","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"JulienTheRoo","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
@@ -124,8 +123,7 @@
 ,{"name":"まとい_","throw_mode":"gun","color":"E6E6E6","hand":"right","trigger":"index","year":"2024"}
 ],
 		"supporters_2023_name_ad": [
-{"name":"nnlogic","throw_mode":"gun","color":"BF40BF","hand":"right","trigger":"index","year":"2023"}
-,{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
+{"name":"うみみかん。","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"coob_","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"-りこ-","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
 ,{"name":"JulienTheRoo","throw_mode":"gun","color":"","hand":"right","trigger":"index","year":"2023"}
